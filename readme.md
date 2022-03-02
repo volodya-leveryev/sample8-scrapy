@@ -4,7 +4,7 @@
 
 ```
 python -m venv venv
-venv\script\activate.bat
+venv\scripts\activate.bat
 pip install scrapy
 ```
 
